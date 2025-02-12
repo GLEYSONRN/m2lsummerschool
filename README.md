@@ -1,7 +1,16 @@
 # M2L Summer School 2024 (Milan - Italy)
 
 ## About the M2L Summer School
-The **M2L Summer School** is an intensive program focused on cutting-edge topics in **Machine Learning** and **Artificial Intelligence**. Organized in **Milan, Italy**, this event brings together researchers and practitioners to explore foundational and advanced topics in **Natural Language Processing (NLP)**, **Computer Vision (CV)**, **Reinforcement Learning (RL)**, and **Graph Neural Networks (GNNs)**.
+The **M2L Summer School** is an intensive program focused on cutting-edge topics in **Machine Learning**, **Deep Learning**, and **Artificial Intelligence**. Organized by **Google DeepMind Researchers** in **Milan, Italy**, this event brings together researchers and practitioners to explore foundational and advanced topics in:
+
+- **Natural Language Processing**
+- **Generative and Diffusion Models**
+- **Reinforcement Learning**
+- **Graph Neural Networks**
+- **Self-Supervised Learning**
+- **Applied Deep Learning**
+- **Neuroscience**
+- **Ethics in Machine Learning**.
 
 For more details, visit the official website: [M2L School](https://www.m2lschool.org/home)
 
