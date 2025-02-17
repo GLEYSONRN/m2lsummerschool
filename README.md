@@ -9,12 +9,12 @@ During the program, I deepened my understanding of key topics, including:
 
 📌 **Natural Language Processing**  
 📌 **Generative and Diffusion Models**  
-📌 **Reinforcement Learning** 🎮  
-📌 **Graph Neural Networks** 🔗  
+📌 **Reinforcement Learning**  
+📌 **Graph Neural Networks**   
 📌 **Self-Supervised Learning**  
-📌 **Applied Deep Learning** 💡  
-📌 **Neuroscience** 🧠  
-📌 **Ethics in Machine Learning** ⚖️  
+📌 **Applied Deep Learning**   
+📌 **Neuroscience**  
+📌 **Ethics in Machine Learning**  
 
 For more details about the program, visit the official website: [M2L School](https://www.m2lschool.org/home).  
 
